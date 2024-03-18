@@ -2,7 +2,7 @@ build:
   version: "v5.0"
 
 contact:
-  message: "Bank System - Accounts API / PROD"
+  message: "Bank System - Accounts API / RABBITMQ"
   details:
     name: "Juan Botia - Developer Owner / Arquitecto"
     email: "juanbotia28@hotmail.com"
