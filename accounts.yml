@@ -2,7 +2,7 @@ build:
     version: 'v3.0'
 
 contact:
-    message: "Bank System - Accounts API"
+    message: "Bank System - Accounts API / Default Enviroment"
     details:
       name: "Diana Lorena Botia - Develop"
       email: "lorebotia23@gmail.com"
