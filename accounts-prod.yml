@@ -2,10 +2,10 @@ build:
   version: "v5.0"
 
 contact:
-  message: "Bank System - Accounts API / PRODUCCION"
+  message: "Bank System - Accounts API / PROD"
   details:
-    name: "Diana Botia - Developer Owner / Directo Proyectos"
-    email: "lorebotia23@hotmail.com"
+    name: "Juan Botia - Developer Owner / Arquitecto"
+    email: "juanbotia28@hotmail.com"
   phone-numbers:
-    - "(57) 305-745-9906"
+    - "(57) 305-745-9999"
     - "(57) 305-261-0120"
