@@ -1,0 +1,11 @@
+build:
+  version: "v4.0"
+
+contact:
+  message: "Bank System - Accounts API QA"
+  details:
+    name: "Lorena Botia - Developer Master QA"
+    email: "lore23@gmail.com"
+  phone-numbers:
+    - "(57) 305-745-0001"
+    - "(57) 305-261-0002"
