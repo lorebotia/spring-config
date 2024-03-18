@@ -2,9 +2,9 @@ build:
   version: "v5.0"
 
 contact:
-  message: "Bank System - Accounts API PROD"
+  message: "Bank System - Accounts API / Entorno de Producccion"
   details:
-    name: "Diana Botia - Developer Owner"
+    name: "Diana Botia - Developer Owner / Team Load"
     email: "lorebotia23@hotmail.com"
   phone-numbers:
     - "(57) 305-745-9906"
