@@ -1,0 +1,11 @@
+build:
+    version: 'v3.0'
+
+contact:
+    message: "Bank System - CARDS API"
+    details:
+      name: "Diana Lorena Botia - Apllications Especialist"
+      email: "lore23@gmail.com"
+    phone-numbers:
+      - "(57) 316-332-1478"
+      - "(57) 310-247-0230"

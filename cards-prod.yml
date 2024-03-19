@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+# Property to be read from code
+build:
+  version: "v5.0"
+
+#@ConfigurationProperties
+contact:
+  message: "Bank System - CARDS API PROD"
+  details:
+    name: "Diana Botia - Developer Standar"
+    email: "lorebotia23@hotmail.com"
+  phone-numbers:
+    - "(57) 305-745-9888"
+    - "(57) 305-261-0111"
