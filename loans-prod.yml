@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+# Property to be read from code
+build:
+  version: "V5.0"
+
+#@ConfigurationProperties
+contact:
+  message: "System Bank - Loans API PROD"
+  details:
+    name: "Juan Botia - Arquitect"
+    email: "juanbotia23@yahoo.com"
+  phone-numbers:
+    - "(57) 305-745-7777"
+    - "(57) 305-261-6666"

@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+# Property to be read from code
+build:
+  version: "v4.0"
+
+#@ConfigurationProperties
+contact:
+  message: "System Bank - Loans API QA"
+  details:
+    name: "Lorena Botia - Developer"
+    email: "loreb25@gmail.com"
+  phone-numbers:
+    - "(57) 305-745-0000"
+    - "(57) 305-261-1111"

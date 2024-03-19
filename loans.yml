@@ -1,0 +1,11 @@
+build:
+    version: 'v3.0'
+
+contact:
+    message: "System Bank - Loans API"
+    details:
+      name: "Diana Lorena Botia - Engineer System"
+      email: "lore2523@gmail.com"
+    phone-numbers:
+      - "(57) 316-332-2222"
+      - "(57) 310-247-5555"
